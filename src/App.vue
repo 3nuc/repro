@@ -3,7 +3,6 @@
 </template>
 
 <script lang="ts">
-/* eslint-disable @typescript-eslint/ban-ts-comment */
 import { Component, Vue } from 'vue-property-decorator';
 
 @Component
