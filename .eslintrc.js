@@ -42,7 +42,7 @@ module.exports = {
           component: 'always',
         },
         svg: 'always',
-        math: 'always'
+        math: 'always',
       },
     ],
     'vue/require-v-for-key': 'off', // this rule should be enabled

@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "start": "vue-cli-service lint -- src/App.vue"
+    "start": "eslint -- src/App.vue"
   },
   "dependencies": {
     "core-js": "^3.6.4",
