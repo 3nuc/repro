@@ -1,0 +1,6 @@
+
+/home/artur/dev/repro/src/App.vue
+  20:4  error  Parsing error: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+✖ 1 problem (1 error, 0 warnings)
+
